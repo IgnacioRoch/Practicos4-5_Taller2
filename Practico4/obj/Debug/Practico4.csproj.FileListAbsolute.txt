@@ -1,0 +1,10 @@
+C:\Users\Nachito\Desktop\Practico4\bin\Debug\Practico4.exe.config
+C:\Users\Nachito\Desktop\Practico4\bin\Debug\Practico4.exe
+C:\Users\Nachito\Desktop\Practico4\bin\Debug\Practico4.pdb
+C:\Users\Nachito\Desktop\Practico4\obj\Debug\Practico4.csproj.AssemblyReference.cache
+C:\Users\Nachito\Desktop\Practico4\obj\Debug\Practico4.Form1.resources
+C:\Users\Nachito\Desktop\Practico4\obj\Debug\Practico4.Properties.Resources.resources
+C:\Users\Nachito\Desktop\Practico4\obj\Debug\Practico4.csproj.GenerateResource.cache
+C:\Users\Nachito\Desktop\Practico4\obj\Debug\Practico4.csproj.CoreCompileInputs.cache
+C:\Users\Nachito\Desktop\Practico4\obj\Debug\Practico4.exe
+C:\Users\Nachito\Desktop\Practico4\obj\Debug\Practico4.pdb
