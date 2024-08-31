@@ -1,0 +1,17 @@
+C:\Users\Nachito\Documents\Proyecto\Practico5\Practico5\bin\Debug\net8.0-windows\Practico5.exe
+C:\Users\Nachito\Documents\Proyecto\Practico5\Practico5\bin\Debug\net8.0-windows\Practico5.deps.json
+C:\Users\Nachito\Documents\Proyecto\Practico5\Practico5\bin\Debug\net8.0-windows\Practico5.runtimeconfig.json
+C:\Users\Nachito\Documents\Proyecto\Practico5\Practico5\bin\Debug\net8.0-windows\Practico5.dll
+C:\Users\Nachito\Documents\Proyecto\Practico5\Practico5\bin\Debug\net8.0-windows\Practico5.pdb
+C:\Users\Nachito\Documents\Proyecto\Practico5\Practico5\obj\Debug\net8.0-windows\Practico5.Form1.resources
+C:\Users\Nachito\Documents\Proyecto\Practico5\Practico5\obj\Debug\net8.0-windows\Practico5.Properties.Resources.resources
+C:\Users\Nachito\Documents\Proyecto\Practico5\Practico5\obj\Debug\net8.0-windows\Practico5.csproj.GenerateResource.cache
+C:\Users\Nachito\Documents\Proyecto\Practico5\Practico5\obj\Debug\net8.0-windows\Practico5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nachito\Documents\Proyecto\Practico5\Practico5\obj\Debug\net8.0-windows\Practico5.AssemblyInfoInputs.cache
+C:\Users\Nachito\Documents\Proyecto\Practico5\Practico5\obj\Debug\net8.0-windows\Practico5.AssemblyInfo.cs
+C:\Users\Nachito\Documents\Proyecto\Practico5\Practico5\obj\Debug\net8.0-windows\Practico5.csproj.CoreCompileInputs.cache
+C:\Users\Nachito\Documents\Proyecto\Practico5\Practico5\obj\Debug\net8.0-windows\Practico5.dll
+C:\Users\Nachito\Documents\Proyecto\Practico5\Practico5\obj\Debug\net8.0-windows\refint\Practico5.dll
+C:\Users\Nachito\Documents\Proyecto\Practico5\Practico5\obj\Debug\net8.0-windows\Practico5.pdb
+C:\Users\Nachito\Documents\Proyecto\Practico5\Practico5\obj\Debug\net8.0-windows\Practico5.genruntimeconfig.cache
+C:\Users\Nachito\Documents\Proyecto\Practico5\Practico5\obj\Debug\net8.0-windows\ref\Practico5.dll
